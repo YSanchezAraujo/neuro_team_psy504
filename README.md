@@ -7,3 +7,4 @@ I'm Max. I am in the neuro team .
 for the lord of chaos
 the lord of chaos is a COWARD; beware of COWARDS
 
+i am not on the team, but i am wary of cowards
