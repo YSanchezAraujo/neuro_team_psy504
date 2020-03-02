@@ -1,14 +1,8 @@
 # neuro_team_psy504
-our (test?) repo
 
-I'm Anna, the first contributor of the repo.
-CHAOTIC ADD 
-I'm Max. I am in the neuro team .
-<<<<<<< HEAD
-for the lord of chaos.
-Woo
-=======
-for the lord of chaos
-the lord of chaos is a COWARD; beware of COWARDS
+## ABOUT:
+Collection of models used for the Advanced Regression class in Princeton's Psychology department
 
->>>>>>> 97f4d65b9d6a1b1e7704fc3a87200e4a89677bef
+## INTERNAL USE:
+upload pickled model fits to: 
+    * [this shared google drive](https://drive.google.com/drive/u/2/folders/0ADy784NxelsqUk9PVA)
