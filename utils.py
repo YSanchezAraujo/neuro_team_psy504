@@ -21,7 +21,7 @@ def save_stan_pkl(path, fit, model):
     returns:
     path::string - the string you used in path, (this is used to load up the fit)
     """
-    with open("path", "wb") as file_store:
+    with open(path, "wb") as file_store:
         pickle.dump({"model": model, "fit": fit}, file_store, protocol=-1)
     return path
 
